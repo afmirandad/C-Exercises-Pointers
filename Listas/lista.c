@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Este es un mensaje de prueba
+
 struct Node{
     int data; // 4 bytes
     struct Node* next;
